@@ -35,8 +35,6 @@ This is of course, not a substitute for watching the talk, but being familiar wi
 ## What to capture
 
 > For me, it's helpful to view the liveblog as a note-taking task. Pretend you're writing class notes for a friend who can't attend the talk but needs to know the key material for the test. - [Beyang Liu](https://twitter.com/beyang), Sourcegraph co-founder.
- 
-Beyang has written over a dozen liveblogs so he's got it down to an artform.
 
 Focus on succintly summarizing the most important points and takeaways and don't worry about recording every detail mentioned. Knowing what to include and what to leave out is a bit of a learned skill but just trust your judgement and think "what would would someone need to know in order to get value from my post?".
 
