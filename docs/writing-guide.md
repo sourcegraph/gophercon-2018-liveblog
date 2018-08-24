@@ -53,16 +53,16 @@ return mat.Dot(h, h).Sum() / float64(2 * X.Rows())
 
 ## Image urls
 
-As you'll be using the GitHUb issue editor to create your post (sounds weird but it's the easiest way), Just drag and drop the image into the editor.
+As you'll be using the GitHUb issue editor to create your post (sounds weird but we'll explain later), all you have to do is drag and drop the image into the editor and GitHub will create the URL for you.
 
 ## Enjoy the experience!
 
-Liveblogging is crazy and frantic, but also super rewarding. You get to be the one to get the word out about some really cool projects, and it's your name on the byline. 
+Liveblogging can be crazy, frantic, but super rewarding. You get to be the one to get the word out about some really concepts and projects, and it's your name on the byline. 
 
 And chances are while everyone else is checking their email or social media, you'll be actively grokking the content of the talk on a level where you can actually explain it to others. 
 
-Consequently, you'll take away much more knowledge yourself, and you'll have lots of super interesting thoughts to share with people at dinner and drinks, making you the life of the conference after-party :)
+Consequently, you'll take away much more knowledge yourself, and you'll have lots of super interesting thoughts to share with people at dinner and drinks, making you the life of the conference after-party :).
 
 ## Next...
 
-Now that you know how to write a post, let's get talk about [getting your post live]([post submission process page](post-submission-process.md).
+Now that you know how to write a post, let's get talk about [getting your post live](post-submission-process.md).
