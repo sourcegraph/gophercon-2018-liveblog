@@ -34,7 +34,7 @@ This is of course, not a substitute for watching the talk, but being familiar wi
 
 ## What to capture
 
-> For me, it's helpful to view the liveblog as a note-taking task. Pretend you're writing class notes for a friend who can't attend the talk but needs to know the key material for the test. - [Beyang Liu](https://twitter.com/beyang), Sourcergraph co-founder.
+> For me, it's helpful to view the liveblog as a note-taking task. Pretend you're writing class notes for a friend who can't attend the talk but needs to know the key material for the test. - [Beyang Liu](https://twitter.com/beyang), Sourcegraph co-founder.
  
 Beyang has written over a dozen liveblogs so he's got it down to an artform.
 
@@ -53,11 +53,11 @@ return mat.Dot(h, h).Sum() / float64(2 * X.Rows())
 
 ## Image urls
 
-As you'll be using the GitHUb issue editor to create your post (sounds weird but we'll explain later), all you have to do is drag and drop the image into the editor and GitHub will create the URL for you.
+As you'll be using the GitHub issue editor to create your post (sounds weird but we'll explain later), all you have to do is drag and drop the image into the editor and GitHub will create the URL for you.
 
 ## Enjoy the experience!
 
-Liveblogging can be crazy, frantic, but super rewarding. You get to be the one to get the word out about some really concepts and projects, and it's your name on the byline. 
+Liveblogging can be crazy, frantic, but super rewarding. You get to be the one to get the word out about some really cool concepts and projects, and it's your name on the byline. 
 
 And chances are while everyone else is checking their email or social media, you'll be actively grokking the content of the talk on a level where you can actually explain it to others. 
 
