@@ -1,3 +1,5 @@
+![](docs/img/gophercon-header.jpg)
+
 # GopherCon LiveBlog 2018 Contributors Guide
 
 Thanks for signing up to be a liveblogger for the 2018 GopherCon in Denver.
