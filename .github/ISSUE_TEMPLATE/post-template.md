@@ -11,7 +11,7 @@ liveblogger_url: URL
 
 # TALK TITLE
 
-Talk byline or one sentance description.
+Talk byline or one sentence description.
 
 ## TL;DR
 
