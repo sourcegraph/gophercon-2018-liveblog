@@ -2,7 +2,7 @@
 
 ## 1. You're selected to cover one or more talks
 
-If you're reading this repo, this has more than likely happened. If you want to apply to liveblog, checkout [this post](https://about.sourcegraph.com/blog/sourcegraph-liveblogging-at-gophercon-2018) to see which talks are still available.
+If you're reading this repo, this has more than likely happened. If you want to apply to liveblog, check out [this post](https://about.sourcegraph.com/blog/sourcegraph-liveblogging-at-gophercon-2018) to see which talks are still available.
 
 ## 2. Get your post to us
 

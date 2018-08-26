@@ -22,7 +22,7 @@ Here are some past examples of liveblogs that have done well on HackerNews:
 
 ## Writing a great liveblog post
 
-Even though it's technically a blog post, treat this more as a note taking exercise. Bullet points are your friend as they're easy to scan and avoid you having to write flowing sentances which is not necessarily required.
+Even though it's technically a blog post, treat this more as a note taking exercise. Bullet points are your friend as they're easy to scan and avoid you having to write flowing sentences which aren't necessary.
 
 ## Be prepared (if possible)
 
@@ -30,13 +30,13 @@ If we can, we'll send you a draft copy of the slides for you to read beforehand.
 
 You can also extract important pictures, diagrams and code snippets from the slides and put these in your pre-talk draft.
 
-This is of course, not a substitute for watching the talk, but being familiar with the subject matter enables you to more easily capture new and interesting things not in the slides as you're not scrambling to both understand and capture content at the same time.
+This is, of course, not a substitute for watching the talk, but being familiar with the subject matter enables you to more easily capture new and interesting things not in the slides as you're not scrambling to both understand and capture content at the same time.
 
 ## What to capture
 
 > For me, it's helpful to view the liveblog as a note-taking task. Pretend you're writing class notes for a friend who can't attend the talk but needs to know the key material for the test. - [Beyang Liu](https://twitter.com/beyang), Sourcegraph co-founder.
 
-Focus on succintly summarizing the most important points and takeaways and don't worry about recording every detail mentioned. Knowing what to include and what to leave out is a bit of a learned skill but just trust your judgement and think "what would would someone need to know in order to get value from my post?".
+Focus on succintly summarizing the most important points and takeaways and don't worry about recording every detail mentioned. Knowing what to include and what to leave out is a bit of a learned skill but just trust your judgement and think, "What would would someone need to know in order to get value from my post?"
 
 ## Code snippets
 
@@ -49,7 +49,7 @@ h := mat.Minus(mat.Product(X, theta), y)
 return mat.Dot(h, h).Sum() / float64(2 * X.Rows())
 ```
 
-## Image urls
+## Image URLs
 
 As you'll be using the GitHub issue editor to create your post (sounds weird but we'll explain later), all you have to do is drag and drop the image into the editor and GitHub will create the URL for you.
 
