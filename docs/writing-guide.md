@@ -1,6 +1,6 @@
 # Writing Guide
 
-Sourcegraph has liveblogged for several GopherCon's so we can offer some solid tips.
+Sourcegraph has liveblogged for several GopherCons so we can offer some solid tips.
 
 This page describes how to go about creating the best possible post while the [post submission process page](post-submission-process.md) details how to get your post to us.
 
