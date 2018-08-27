@@ -13,19 +13,13 @@ liveblogger_url: URL
 
 Talk byline or one sentence description.
 
-## TL;DR
+## Summary
 
 Use this section to summarise the most important aspects of this talk. 
 
 It's great for those that just want essential takeaways, plus its a quick way to determine if this talk is of interest and whether they should keep reading.
 
-## Code
-
-If there is code, link to it here or just delete this section.
-
-## Announcements
-
-If there are announcements that accompany this post, stick them here or just delete this section.
+Include links to any code that was shared.
 
 ---
 
