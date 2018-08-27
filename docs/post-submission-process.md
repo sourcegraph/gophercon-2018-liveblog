@@ -14,6 +14,14 @@ It's the easiest way to get your content to us without going through the fork, c
 1. Presuming there's no broken links or images, we'll close the issue.
 1. Our team will then put your content on the liveblog, and once live, the [Sourcegraph Twitter](https://twitter.com/srcgraph) account will send out a tweet promoting your post. You'll be tagged in the post to alert you that your post is live.
 
+### Composing your post
+
+However you choose to compose your post, make sure you're not at risk of losing your work.
+
+Composing locally, then adding the issue once you're ready to submit is a fine option.
+
+If you want to compose in the GitHub issue editor, save your issue with a “wip:” prefix, then remove it when you're ready to submit the final version.
+
 ## 3. Celebrate and be rewarded!
 
 Rejoice! Celebrate your contribution to the conference and the golang community.
