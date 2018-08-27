@@ -2,7 +2,7 @@
 
 # GopherCon LiveBlog 2018 Contributors Guide
 
-Thanks for signing up to be a liveblogger for the 2018 GopherCon in Denver.
+Thanks for signing up to be a [liveblogger for the 2018 GopherCon in Denver](https://sourcegraph.com/gophercon).
 
 Below you'll find tips on composing your post as well as how to get your post live.
 
