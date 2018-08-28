@@ -4,12 +4,9 @@ about: Template for your post
 
 ---
 
----
-liveblogger_name: FULL NAME
-liveblogger_url: URL
----
+Presenter: [NAME](Speaker URL from https://www.gophercon.com/page/1320029/speakers)
 
-# TALK TITLE
+Liveblogger: [NAME](YOUR URL)
 
 Talk byline or one sentence description.
 
